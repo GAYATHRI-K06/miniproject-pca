@@ -1,4 +1,4 @@
-# miniproject-pca
+# Miniproject-pca
 
 ## OBJECTIVE:
 
