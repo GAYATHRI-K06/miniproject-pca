@@ -17,7 +17,7 @@ Store data permanently in a text file
 ## PROGRAM:
 
 # Student Grade Management System
-
+``````
 import os
 
 FILE_NAME = "students.txt"
@@ -98,6 +98,7 @@ def menu():
 
 menu()
 
+````````
 
 ## OUTPUT:
 <img width="912" height="661" alt="image" src="https://github.com/user-attachments/assets/c36dcd85-3531-49a4-8589-d91b9e15f7b9" />
